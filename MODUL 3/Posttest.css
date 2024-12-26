@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    padding: 2rem;
+    background-color: aquamarine;
+}
+.container .content a{
+    display: block;
+    text-align: right;
+}
